@@ -1,0 +1,1 @@
+﻿positionForPages[3]=[{word:"https://alkitab-biblebooks.github.io",left:-0.935333,top:0.025985,width:0.935333,height:0.961315}];
