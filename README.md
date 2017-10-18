@@ -1,0 +1,2 @@
+# pertentangan
+THE CONTROVERSY
